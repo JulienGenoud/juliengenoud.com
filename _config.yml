@@ -7,7 +7,7 @@ baseurl:     "/juliengenoud.com"
 url:         "http://juliengenoud.github.io/juliengenoud.com"
 
 # Google analytics
-google_analytics: UA-53548208-1
+google_analytics: 
 
 # Optional features
 animated:           false
