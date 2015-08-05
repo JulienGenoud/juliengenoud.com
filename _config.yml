@@ -4,7 +4,7 @@ email:       juliengenoud.com
 author:      Julien Genoud
 description: "petit blog sur la chine."
 baseurl:     "/pixyll"
-url:         "http://juliengenoud.github.io/pixyll"
+url:         "http://juliengenoud.github.io/juliengenoud.com"
 
 # Google analytics
 google_analytics: UA-53548208-1
