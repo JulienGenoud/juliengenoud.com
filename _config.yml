@@ -2,7 +2,7 @@
 title:       Blog Chine
 email:       juliengenoud@gmail.com
 author:      Julien Genoud
-description: "petit blog sur la chine."
+description: "Blog sur la chine."
 baseurl:     "/juliengenoud.com"
 url:         "http://juliengenoud.github.io/juliengenoud.com"
 
@@ -20,7 +20,7 @@ show_social_icons:  false
 disqus_shortname:
 
 # Social icons
-github_username:
+github_username:JulienGenoud
 stackoverflow_id:
 twitter_username:
 google_plus_id:
@@ -32,12 +32,12 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
-share_googleplus: false
+share_facebook: true
+share_twitter: true
+share_googleplus: true
 share_linkedin: false
 share_digg: false
 share_tumblr: false
