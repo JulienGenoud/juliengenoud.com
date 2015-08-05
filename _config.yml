@@ -4,7 +4,7 @@ email:       juliengenoud@gmail.com
 author:      Julien Genoud
 description: "Blog sur la chine."
 baseurl:     "/juliengenoud.com"
-url:         "http://juliengenoud.github.io/juliengenoud.com"
+url:         "http://juliengenoud.com"
 
 # Google analytics
 google_analytics: 
