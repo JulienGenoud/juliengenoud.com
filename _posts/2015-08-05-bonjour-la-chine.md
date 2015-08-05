@@ -9,5 +9,6 @@ Une petite intro
 
 ### Images look great, too
 
-![desk](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)
+![_dsc0759](https://cloud.githubusercontent.com/assets/1808854/9099011/a64151ae-3bcd-11e5-83f8-3ac46261ee84.jpg)
+
 
