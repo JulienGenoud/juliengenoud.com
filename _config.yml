@@ -17,7 +17,7 @@ show_social_icons:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:juliengenoud
+disqus_shortname: juliengenoud
 
 # Social icons
 github_username:
