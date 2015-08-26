@@ -5,6 +5,7 @@ author:      Julien Genoud
 description: "Blog sur la chine."
 baseurl:     ""
 url:         "http://juliengenoud.com"
+paginate_path: "blog/page:num"
 
 # Google analytics
 google_analytics: "UA-13056086-3"
