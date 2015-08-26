@@ -12,8 +12,5 @@ Bientôt la Chine départ le 4 septembre !
 
 
 <blockquote>
-  <p>
-    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
-  </p>
   <footer><cite>Ceci est une photo.</cite></footer>
 </blockquote>
