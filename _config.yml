@@ -3,7 +3,7 @@ title:       Blog Chine
 email:       juliengenoud@gmail.com
 author:      Julien Genoud
 description: "Blog sur la chine."
-baseurl:     "blog/page:num"
+baseurl:     "blog"
 url:         "http://juliengenoud.com"
 
 # Google analytics
