@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://juliengenoud.com"
 
 # Google analytics
-google_analytics: 
+google_analytics: "UA-13056086-3"
 
 # Optional features
 animated:           false
