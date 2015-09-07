@@ -5,9 +5,9 @@ title:      Quelques jours à Pékin
 ---
 
 
-Ces quelques jours on étés intenses mais il est temps de faire un petit post pour expliquer ce que j'ai vécu!
+Ces quelques jours ont été intenses mais il est temps de faire un petit post pour expliquer ce que j'ai vécu!
 
-Dès le premier soir nous sortons de l'université pour aller manger à l'expterieur...
+Dès le premier soir nous sortons de l'université pour aller manger à l'extérieur...
 ![rue](https://cloud.githubusercontent.com/assets/1808854/9715032/28f90d14-558f-11e5-96d3-60d4da5bff0a.jpg)
 
 2 femmes font du bad, et me font un grand sourire, je les aurais bien rejoins :)
@@ -22,11 +22,11 @@ ou un autre bain, plus doux.<br>
 ![resto1](https://cloud.githubusercontent.com/assets/1808854/9718026/a21e2b14-55aa-11e5-9dcb-19b50e21a5a4.jpg)
 
 Je tombe également sur une chinoise que nous demande si on veux encore plus de légumes via l'application,
-elle nous explique aussi que l'on doit manger ce petit bol sans le melanger aux autres plats...
+elle nous explique aussi que l'on doit manger ce petit bol sans le mélanger aux autres plats...
 ![resto2](https://cloud.githubusercontent.com/assets/1808854/9718024/9ada31a4-55aa-11e5-9687-484d7959a5d3.jpg)
 
 
-Le lendemain nous faisons un tour à Sanlium, l'occasion de passer dans le quartier des embassades.
+Le lendemain nous faisons un tour à Sanlium, l'occasion de passer dans le quartier des ambassades.
 ![ambassade](https://cloud.githubusercontent.com/assets/1808854/9718046/d509c5e2-55aa-11e5-8f4a-cad017deeb03.jpg)
 
 On à eu la chance d'assister à une spéctacle dans un collège, très millitaire :
