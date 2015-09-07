@@ -1,4 +1,4 @@
-
+--
 layout:     post
 title:      Quelques jours à Pékin
 <!--summary:    bonjour la chine-->
