@@ -1,4 +1,9 @@
 
+layout:     post
+title:      Quelques jours à Pékin
+<!--summary:    bonjour la chine-->
+---
+
 
 Ces quelques jours on étés intenses mais il est temps de faire un petit post pour expliquer ce que j'ai vécu!
 
