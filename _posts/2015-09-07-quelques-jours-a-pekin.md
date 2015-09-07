@@ -29,5 +29,5 @@ elle nous explique aussi que l'on doit manger ce petit bol sans le mélanger aux
 Le lendemain nous faisons un tour à Sanlium, l'occasion de passer dans le quartier des ambassades.
 ![ambassade](https://cloud.githubusercontent.com/assets/1808854/9718046/d509c5e2-55aa-11e5-8f4a-cad017deeb03.jpg)
 
-On à eu la chance d'assister à une spéctacle dans un collège, très millitaire :
+On à eu la chance d'assister à un spectacle dans un collège, très militaire :
 ![fill1](https://cloud.githubusercontent.com/assets/1808854/9718020/9313a4d2-55aa-11e5-92b7-126f891acfc7.gif)
