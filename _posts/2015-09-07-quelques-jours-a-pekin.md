@@ -14,11 +14,11 @@ Dès le premier soir nous sortons de l'université pour aller manger à l'expter
 ![raquette](https://cloud.githubusercontent.com/assets/1808854/9715029/2553601a-558f-11e5-8e23-336275cc0228.jpg)
 
 
-Bon on décide d'aller dans un restau ou il y a plein de monde, tous parlent chinois, du coup il va falloir faire preuve d'inventivité avec google traduction pour ce faire comprendre.
+Bon on décide d'aller dans un restau ou il y a plein de monde, tous parlent chinois, du coup il va falloir faire preuve d'inventivité avec google traduction pour ce faire comprendre.<br>
 ![bouemini](https://cloud.githubusercontent.com/assets/1808854/9718019/9310ba6a-55aa-11e5-9bd3-07737fd397f7.gif)
 
 On voit ci dessus comment sont mangés les aliments trempés aux choix dans un bain de piments vraiment épicé,
-ou un autre bain, plus doux.
+ou un autre bain, plus doux.<br>
 ![resto1](https://cloud.githubusercontent.com/assets/1808854/9718026/a21e2b14-55aa-11e5-9dcb-19b50e21a5a4.jpg)
 
 Je tombe également sur une chinoise que nous demande si on veux encore plus de légumes via l'application,
