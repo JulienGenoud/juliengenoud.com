@@ -8,7 +8,7 @@ Nous avons la chance d'avoir une belle université.
 
 ![2](https://cloud.githubusercontent.com/assets/1808854/9766937/2f68f5fe-574e-11e5-8dd3-32e4500f8624.jpg)
 
-Des fruits frais dans des batonnets qu'on trouve vraiment partout ici pour 2 yuans.
+Des fruits frais en batonnets qu'on trouve vraiment partout pour 2 yuans.
 ![fruits](https://cloud.githubusercontent.com/assets/1808854/9767088/00ad87ce-574f-11e5-9cae-8b4cd26e1a1b.jpg)
 
 ![3](https://cloud.githubusercontent.com/assets/1808854/9766938/2f99b66c-574e-11e5-9891-41b174ac5036.jpg)
