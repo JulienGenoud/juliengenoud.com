@@ -11,7 +11,6 @@ Nous avons la chance d'avoir une belle université.
 Des fruits frais dans des batonnets qu'on trouve vraiment partout ici pour 2 yuans.
 ![fruits](https://cloud.githubusercontent.com/assets/1808854/9767088/00ad87ce-574f-11e5-9cae-8b4cd26e1a1b.jpg)
 
-La statue de mao.
 ![3](https://cloud.githubusercontent.com/assets/1808854/9766938/2f99b66c-574e-11e5-9891-41b174ac5036.jpg)
 
 
