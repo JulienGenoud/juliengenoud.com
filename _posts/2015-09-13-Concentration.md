@@ -8,7 +8,7 @@ C'est donc un rythme scolaire qui m'attend, loin du vécu d'Epitech, mais pas si
 Ma vie n'a pas tellement changée depuis 1 an, toujours plein de projets en tête et à faire, le regard posé vers le futur. J'ai vraiment passés d'exellents moments, pleins de rencontres et d'aventures,
 mais c'est avec le coeur un peu lourd que je commence cette année. À cause de ma timidité et ma façon naïve de voir l'amour!<br><br>
 
-Je ne trouve pas qu'il y ait tant de différences que ça, évidemment on ne parle pas de nourriture, de visages, ou façon de parler, mais bien d'une façon d'être qui n'est pas si éloignée de la nôtre. Je trouve que l'accueil est vraiment chaleureux pour des gens qui ne comprennent pas le français, je me suis toujours senti aidé, très a l'aise. Si on devait retenir une chose c'est le sourire des gens, souvent face à nos différences cela reste un beau moyen de communication.
+Finnalement, je ne trouve pas qu'il y ait tant de différences humaines que ça comparées à Bordeaux, évidemment on ne parle pas d'éducation, de visages ou façon de parler, mais bien d'une façon d'être qui n'est pas si éloignée de la nôtre. L'accueil est vraiment chaleureux pour des gens qui ne comprennent pas le français, je me suis toujours senti aidé, très à l'aise. Si on devait retenir une chose c'est le sourire des gens, souvent face à nos différences cela reste un beau moyen de communication.
 
 
 ![1](https://cloud.githubusercontent.com/assets/1808854/9836640/8bbbe912-5a53-11e5-9226-1974367a0548.jpg)
