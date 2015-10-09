@@ -6,7 +6,6 @@ title:      Vacances Saturées
 Je reviens sur le blog avec ces quelques photos de vacances ... 
 Sans commentaires !
 
-
 ![_dsc0950](https://cloud.githubusercontent.com/assets/1808854/10399078/28d15630-6ee3-11e5-896e-feb55be099e0.jpg)
 ![_dsc0952](https://cloud.githubusercontent.com/assets/1808854/10399079/290adb26-6ee3-11e5-8b68-60767e88cbf5.jpg)
 ![_dsc0953](https://cloud.githubusercontent.com/assets/1808854/10399080/2933f696-6ee3-11e5-853a-3255cef13fad.jpg)
