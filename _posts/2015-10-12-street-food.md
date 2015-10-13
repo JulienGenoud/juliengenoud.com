@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Stree Food
+title:      Street Food
 ---
 
 Après notre cours de chinois, 
