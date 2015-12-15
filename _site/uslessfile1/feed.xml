@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Chine</title>
+    <description>Blog sur la chine.</description>
+    <link>http://juliengenoud.com/</link>
+    <atom:link href="http://juliengenoud.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Bonjour la Chine</title>
+        <description>&lt;p&gt;Une petite intro&lt;/p&gt;
+
+&lt;h3 id=&quot;images-look-great-too&quot;&gt;Images look great, too&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/1808854/9099011/a64151ae-3bcd-11e5-83f8-3ac46261ee84.jpg&quot; alt=&quot;_dsc0759&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/1808854/9099075/25e538b2-3bce-11e5-91b4-56fe5964923d.jpg&quot; alt=&quot;noir&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Aug 2015 01:50:00 +0200</pubDate>
+        <link>http://juliengenoud.com/hello/2015/08/06/bonjour-la-chine/</link>
+        <guid isPermaLink="true">http://juliengenoud.com/hello/2015/08/06/bonjour-la-chine/</guid>
+      </item>
+    
+      <item>
+        <title>Announcing Version 2.0</title>
+        <description>&lt;p&gt;In an effort to make Pixyll easier to customize and more aesthetically pleasing, we’ve release version &lt;code&gt;2.0&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pixyll now features:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Line anchors in code blocks and new syntax highlighting&lt;/li&gt;
+  &lt;li&gt;A customizable variables file&lt;/li&gt;
+  &lt;li&gt;Modular, and lighter weight CSS&lt;/li&gt;
+  &lt;li&gt;No more &lt;code&gt;max-width&lt;/code&gt; media queries&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 11 Jul 2015 00:00:00 +0200</pubDate>
+        <link>http://juliengenoud.com/jekyll/pixyll/2015/07/11/announcing-pixyll-version-2/</link>
+        <guid isPermaLink="true">http://juliengenoud.com/jekyll/pixyll/2015/07/11/announcing-pixyll-version-2/</guid>
+      </item>
+    
+  </channel>
+</rss>
