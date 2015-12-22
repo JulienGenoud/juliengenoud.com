@@ -2,7 +2,7 @@
 title:       Julien Genoud Website
 email:       juliengenoud@gmail.com
 author:      Julien Genoud
-description: "Blog sur la chine."
+description: "Site web de Julien Genoud"
 baseurl:     ""
 url:         "http://juliengenoud.com"
 paginate_path: "blog/page:num"
@@ -56,3 +56,4 @@ sass:
   compressed: true
 gems:
   - jekyll-sitemap
+  - jekyll-paginate

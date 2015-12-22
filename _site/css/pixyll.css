@@ -1064,8 +1064,7 @@ blockquote footer {
   width: 100%; }
 
 .measure {
-  margin: 0 auto;
-  max-width: 42rem; }
+  margin: 0 50px; }
 
 .pagination {
   font-size: 1rem;
