@@ -1,0 +1,33 @@
+---
+layout:     post
+title:      San Miguel de Allende
+---
+
+![_dsc2164](https://cloud.githubusercontent.com/assets/1808854/12812272/819f0e84-cb6c-11e5-9f3a-1ce3061584c8.jpg)
+![_dsc2153](https://cloud.githubusercontent.com/assets/1808854/12812274/81a0997a-cb6c-11e5-8a9c-aeebc6262065.jpg)
+![_dsc2155](https://cloud.githubusercontent.com/assets/1808854/12812270/819c3a2e-cb6c-11e5-966b-5eb4cbb3461b.jpg)
+![_dsc2156](https://cloud.githubusercontent.com/assets/1808854/12812273/819fc19e-cb6c-11e5-92b4-c18be6e015d8.jpg)
+![_dsc2159](https://cloud.githubusercontent.com/assets/1808854/12812275/81a10a54-cb6c-11e5-8ec1-2549d92fa482.jpg)
+![_dsc2160](https://cloud.githubusercontent.com/assets/1808854/12812271/819dbf3e-cb6c-11e5-9cf9-fc83ba7045b1.jpg)
+![_dsc2173](https://cloud.githubusercontent.com/assets/1808854/12812279/8203ea48-cb6c-11e5-84c8-dc33514b7bcf.jpg)
+![_dsc2174](https://cloud.githubusercontent.com/assets/1808854/12812277/81fff1e0-cb6c-11e5-9137-03ee95a8d806.jpg)
+![_dsc2175](https://cloud.githubusercontent.com/assets/1808854/12812280/82048232-cb6c-11e5-8474-d6c928336538.jpg)
+![_dsc2177](https://cloud.githubusercontent.com/assets/1808854/12812278/820221fe-cb6c-11e5-9dd8-2c6f466f9a1e.jpg)
+![_dsc2180](https://cloud.githubusercontent.com/assets/1808854/12812281/820ce120-cb6c-11e5-8e7c-52cd2d312881.jpg)
+![_dsc2181](https://cloud.githubusercontent.com/assets/1808854/12812276/81ffcbfc-cb6c-11e5-9d51-6739782b9a4a.jpg)
+![_dsc2182](https://cloud.githubusercontent.com/assets/1808854/12812283/8236e600-cb6c-11e5-96b5-c4aea3cc9efa.jpg)
+![_dsc2185](https://cloud.githubusercontent.com/assets/1808854/12812282/82362d78-cb6c-11e5-9062-02df7ec1b305.jpg)
+![_dsc2194](https://cloud.githubusercontent.com/assets/1808854/12812285/823de45a-cb6c-11e5-90b5-6c276d48838f.jpg)
+![_dsc2219](https://cloud.githubusercontent.com/assets/1808854/12812286/8240fc30-cb6c-11e5-88af-74b34f912454.jpg)
+![_dsc2233](https://cloud.githubusercontent.com/assets/1808854/12812284/823d632c-cb6c-11e5-96e4-96b7f277cdde.jpg)
+![_dsc2246](https://cloud.githubusercontent.com/assets/1808854/12812287/8242f15c-cb6c-11e5-998b-d70e9259a45d.jpg)
+![_dsc2251](https://cloud.githubusercontent.com/assets/1808854/12812289/826caf2e-cb6c-11e5-80f3-1db063092f46.jpg)
+![_dsc2258](https://cloud.githubusercontent.com/assets/1808854/12812288/826c0a42-cb6c-11e5-8abd-fc504861a467.jpg)
+![_dsc2262](https://cloud.githubusercontent.com/assets/1808854/12812290/8271bbb8-cb6c-11e5-959a-135ef31dd08c.jpg)
+![_dsc2267](https://cloud.githubusercontent.com/assets/1808854/12812292/82782958-cb6c-11e5-9bc4-e790b6ff1184.jpg)
+![_dsc2269](https://cloud.githubusercontent.com/assets/1808854/12812293/82783740-cb6c-11e5-96c6-58603c94c0e9.jpg)
+![_dsc2272](https://cloud.githubusercontent.com/assets/1808854/12812291/82779eb6-cb6c-11e5-9a2e-5c7bb2585957.jpg)
+![_dsc2273](https://cloud.githubusercontent.com/assets/1808854/12812294/82a53902-cb6c-11e5-8376-28c60630c850.jpg)
+![_dsc2274](https://cloud.githubusercontent.com/assets/1808854/12812295/82a5469a-cb6c-11e5-93f7-5364e1099742.jpg)
+![bocho](https://cloud.githubusercontent.com/assets/1808854/12812296/82aa00ea-cb6c-11e5-8a9d-73ea96e78035.jpg)
+![mezcal](https://cloud.githubusercontent.com/assets/1808854/12812297/82ac20e6-cb6c-11e5-9171-50bbb7f4bde8.jpg)
