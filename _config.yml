@@ -4,7 +4,7 @@ email:       juliengenoud@gmail.com
 author:      Julien Genoud
 description: "Site web de Julien Genoud"
 baseurl:     ""
-url:         "http://juliengenoud.com"
+url:         "https://www.juliengenoud.com"
 paginate_path: "blog/page:num"
 
 # Google analytics
